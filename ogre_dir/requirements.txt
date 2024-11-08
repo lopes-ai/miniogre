@@ -1,0 +1,11 @@
+openai
+typer
+python-dotenv
+google-ai-generativelanguage
+emoji
+pyfiglet
+tiktoken
+rich
+yaspin
+requests
+Pillow
